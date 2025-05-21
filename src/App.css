@@ -156,7 +156,8 @@ nav {
   display: flex;
 }
 .watch-video-button {
-  margin-left: 2rem;
+  margin-left: 20rem;
+  margin-top: -3rem;
   background-color: transparent;
   outline: none;
   border: none;
@@ -170,6 +171,7 @@ nav {
   align-items: center;
   justify-content: center;
 }
+
 .watch-video-button svg {
   font-size: 3rem;
   margin-right: 1rem;
